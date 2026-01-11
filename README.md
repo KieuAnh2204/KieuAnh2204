@@ -16,7 +16,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 I am an **Information Technology student** with academic training and hands-on projects in multiple areas of software development.
 
 During my studies, I have completed coursework and projects in:
@@ -31,39 +31,26 @@ I am interested in applying technology to real-world problems and continuously i
 
 ---
 
-## 📚 Academic Background & Skills
-- **Programming:** Python, SQL, JavaScript (basic)
-- **Software Engineering:** Requirements analysis, system design, SDLC
-- **Software Testing:** Test cases, black-box testing, test scenarios
-- **AI & NLP:** Data preprocessing, basic ML models, NLP fundamentals
-- **Web Development:** HTML, CSS, basic React & Node.js
-- **Databases:** SQL Server, PostgreSQL, distributed database concepts
-- **Tools:** Git, GitHub, Docker (basic)
+##  Academic & Personal Projects
+
+| Project | Course / Topic | Description | Tech Stack | Link |
+|--------|----------------|-------------|------------|------|
+| **Software Engineering Project** | Microservices for Foodfast Delivery | 2025 – Team project focusing on designing and implementing a microservices-based food delivery system. | Docker, MongoDB, REST API, Microservices Architecture | https://github.com/KieuAnh2204/Software-Engineering |
+| **Software Testing** | Software Testing & QA | A collection of projects and exercises related to software testing, including test cases, QA basics, and practice repositories. | Manual Testing, Test Case Design, QA Fundamentals | https://github.com/Tahumn/MERNStore<br>https://github.com/Tahumn/SoftwareQAProject<br>https://github.com/KieuAnh2204/Software-Testing-Basics |
+| **AI & NLP** | Final Project – LSTM | Final course project applying LSTM for sequence modeling and natural language processing tasks. | Python, LSTM, Deep Learning, NLP | https://github.com/KieuAnh2204/LSTM-Final-project |
+| **Basic Web Application** | Bakery Website | 2022–2023. A basic static bakery website created in my first year of university. The project focuses on practicing HTML, CSS, and basic JavaScript, and still has room for improvement. | HTML, CSS, JavaScript | https://github.com/KieuAnh2204/Bakery_Basic-Web- |
+
 
 ---
 
-## 🚀 Academic & Personal Projects
-
-| Project | Course / Topic | Description | Link |
-|-------|---------------|-------------|------|
-| **Student Performance Analysis** | Python / Data Analysis | Data analysis and visualization to study factors affecting student performance | [View Repo](https://github.com/KieuAnh2204/student-performance-analysis) |
-| **Smart Health Assistant** | AI / Machine Learning | AI-based system for basic health data analysis and prediction | [View Repo](https://github.com/KieuAnh2204/smart-health-assistant) |
-| **Distributed Fund Management System** | Database Systems | Distributed SQL Server database for fund management | [View Repo](https://github.com/KieuAnh2204/distributed-fund-management) |
-| **Multi-Agent Recommendation System** | AI / Reinforcement Learning | Recommendation system using multi-agent reinforcement learning | [View Repo](https://github.com/KieuAnh2204/multi-agent-recommender) |
-| **Software Engineering Project** | Software Engineering | System analysis and design following SDLC methodology | [View Repo](https://github.com/KieuAnh2204/software-engineering-project) |
-| **Software Testing Exercises** | Software Testing | Test case design and testing practice | [View Repo](https://github.com/KieuAnh2204/software-testing) |
-| **Basic Web Application** | Web Programming | Simple web application using HTML, CSS, React & Node.js | [View Repo](https://github.com/KieuAnh2204/web-basic-project) |
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KieuAnh2204&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KieuAnh2204&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
-## 🤝 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ki%E1%BB%81u-anh-742752378/">
