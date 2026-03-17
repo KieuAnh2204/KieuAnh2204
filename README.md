@@ -6,7 +6,7 @@
   <a href="mailto:vokieuanh379@gmail.com">
     <img src="https://img.shields.io/badge/Email-vokieuanh379%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/ki%E1%BB%81u-anh-742752378/">
+  <a href="https://www.linkedin.com/in/kieu-anh-vo/">
     <img src="https://img.shields.io/badge/LinkedIn-Võ%20Kiều%20Anh-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/KieuAnh2204">
@@ -53,7 +53,7 @@ I am interested in applying technology to real-world problems and continuously i
 ##  Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ki%E1%BB%81u-anh-742752378/">
+  <a href="https://www.linkedin.com/in/kieu-anh-vo/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vokieuanh379@gmail.com">
